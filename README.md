@@ -1,9 +1,11 @@
 - 👋 Hi, I’m Ada from @adaland-com
-- :coffee: I’m Java Developer and aspiring Fullstack Developer.
+- :coffee: I’m Java Developer and aspiring Fullstack Developer
 - :rocket: I've got experience with ReactJS and Vite
-- 🌱 I’m currently learning Gen AI
+- 🌱 In spare time I'm working on [board games Spring project](https://github.com/adaland-com/board-game-manager)
 
-- 📫 Reach me [LinkedIn](https://www.linkedin.com/in/adrianna-boczar/)
+  My older projects can be found at my old account [Github](https://github.com/pannaAdrianna). 
+
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/adrianna-boczar/)
 
 ## Tech stack
 - :coffee: Java 11, Java 17, Maven, SpringBoot, Spring Data, Spring Security, JSP, Java Servlet, bash, Hibernate, Lombok, JDBC, REST
