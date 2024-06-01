@@ -3,7 +3,7 @@
 - :rocket: I've got experience with ReactJS and Vite
 - 🌱 In spare time I'm working on [board games Spring project](https://github.com/adaland-com/board-game-manager)
 
-  My older projects can be found at my old [Github](https://github.com/pannaAdrianna) account 
+  My older (university) projects can be found at my old [Github](https://github.com/pannaAdrianna) account 
 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/adrianna-boczar/)
 
